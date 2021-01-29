@@ -17,7 +17,7 @@ export default function App() {
   bottles.push({label: '3 bottles',value:3});
   bottles.push({label: '4 bottles',value:4});
   bottles.push({label: '5 bottles',value:5});
-  bottles.push({label: '6 bottle',value:6});
+  bottles.push({label: '6 bottles',value:6});
   bottles.push({label: '7 bottles',value:7});
   bottles.push({label: '8 bottles',value:8});
   bottles.push({label: '9 bottles',value:9});
